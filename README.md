@@ -1,5 +1,3 @@
-# JosiasTlou
-
 # 👋🏽 Hi, I'm Josias Tlou well known by Pvrplxrd95
 
 💻 Software Developer | 🧠 AI Builder | 📈 Trading Systems | 🌐 Web & Mobile Dev | 🇿🇦 South Africa
