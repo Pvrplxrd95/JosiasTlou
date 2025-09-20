@@ -21,6 +21,47 @@ I'm a passionate full-stack developer building innovative tools across trading, 
 - 🧩 **SA Tycoon Game** – Township economics simulation (coming soon)  
 - 💼 **Upcoming Web Apps** – For local business & micro-banking
 
+## 🚀 Projects
+
+### 🌌 Aurora (AI Assistant) – *60–75%*  
+AI assistant with **personality engine, memory, emotional intelligence**, and advanced learning.  
+*Tech:* Python, OpenRouter, Flask  
+
+### 🖥️ Pro Driver Assist V2  
+Driver assistance software with **game profile management, input visualization, and feedback tuning**.  
+*Tech:* Python (Tkinter, Pandas)  
+
+### 💹 Trade Pulse Technologies  
+Fintech brand selling **EAs for MT4 & MT5**.  
+🔗 [Website](http://tradepulsetech.rf.gd/)  
+
+### 💬 Talka (Messaging App) – *In Progress*  
+South African lightweight messenger app with **voice-to-text, media sharing, and local storage**.  
+*Tech:* Flutter, Hive  
+
+### 🛡️ SafeGuardSA (Safety Platform) – *In Progress*  
+Web platform for **crime reporting, live alerts, and maps**.  
+*Tech:* Bootstrap, Leaflet.js, Flask (planned)  
+
+### 🔒 AlibiSafe – *80%*  
+Mobile app for **privacy-first digital alibis** to protect against wrongful accusations.  
+*Tech:* Flutter, Firebase, planned blockchain-like storage  
+
+### 🤖 Sales Tracker Bot (Discord)  
+Sales & Task Manager bot with **analytics, AI insights, reminders, and motivational updates**.  
+*Tech:* Python, Pandas, Discord.py  
+
+### 👕 Predesigns Clothing  
+Clothing line focused on creative and modern streetwear.  
+
+---
+
+## 🏆 Achievements
+- Built multiple **working software prototypes** independently  
+- Self-taught **EA developer** with profitable forex bots  
+- Created **AI-powered Discord bot** for sales tracking  
+- Running businesses across **fintech, AI, safety, and fashion**
+
 ---
 
 ### 🌱 I’m currently:
