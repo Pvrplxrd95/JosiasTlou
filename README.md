@@ -2,7 +2,7 @@
 
 💻 Software Developer | 🧠 AI Builder | 📈 Trading Systems | 🌐 Web & Mobile Dev | 🇿🇦 South Africa
 
-I'm a passionate full-stack developer building innovative tools across trading, AI assistants, cross-platform apps, and culturally rooted games. I also design and manage web solutions for both business and consultancy clients.
+I'm a passionate full-stack developer focused on building innovative tools across trading, AI assistants, cross-platform applications, and culturally inspired games. I also design and manage web solutions for businesses and consultancy clients. My work spans intelligent systems, automation tools, and business platforms—blending creativity with technology to solve real-world problems. From AI assistants and forex trading software to messaging apps and safety platforms, I enjoy creating impactful, user-focused solutions.
 
 ---
 
