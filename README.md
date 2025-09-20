@@ -7,9 +7,11 @@ I'm a passionate full-stack developer focused on building innovative tools acros
 ---
 
 ### 🛠️ My Tech Toolbox
-- **Languages:** Python, MQL5, C#, HTML, CSS, JS (basic)
+- **Languages:** Python, C#, JavaScript, TypeScript, Dart (Flutter), MQL4/MQL5  
 - **Tools:** MetaTrader 5, Git, Tkinter, Bootstrap, FTP, PyDirectInput
 - **Domains:** AI Assistants, Trading Bots, Web Apps, Farming Tech, Mobile UX
+- **Frameworks & Tools:** React, Node.js, Flask, Firebase, Godot, Tkinter, Pandas,
+- **Other:** GitHub, Oracle Cloud, MS Azure, OpenRouter AI 
 
 ---
 
@@ -33,7 +35,11 @@ Driver assistance software with **game profile management, input visualization, 
 
 ### 💹 Trade Pulse Technologies  
 Fintech brand selling **EAs for MT4 & MT5**.  
-🔗 [Website](http://tradepulsetech.rf.gd/)  
+🔗 [Website](https://tradepulsetech.rf.gd/)  
+
+### 💹 Simons Agro Consultant 
+Animal Health and Consultancy.  
+🔗 [Website](https://tlousb.rf.gd/)  
 
 ### 💬 Talka (Messaging App) – *In Progress*  
 South African lightweight messenger app with **voice-to-text, media sharing, and local storage**.  
