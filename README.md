@@ -1,83 +1,110 @@
-# 👋🏽 Hi, I'm Josias Tlou well known by Pvrplxrd95
+# 👋🏽 Hi, I’m Josias Tlou (aka **Pvrplxrd95**)
 
-💻 Software Developer | 🧠 AI Builder | 📈 Trading Systems | 🌐 Web & Mobile Dev | 🇿🇦 South Africa
+💻 Software Developer | 🧠 AI Systems Builder | 📈 Trading Automation | 🌍 Web & Mobile Applications  
+📍 Pretoria, South Africa
 
-I'm a passionate full-stack developer focused on building innovative tools across trading, AI assistants, cross-platform applications, and culturally inspired games. I also design and manage web solutions for businesses and consultancy clients. My work spans intelligent systems, automation tools, and business platforms—blending creativity with technology to solve real-world problems. From AI assistants and forex trading software to messaging apps and safety platforms, I enjoy creating impactful, user-focused solutions.
+I’m a software developer focused on building **intelligent, practical systems** across AI, fintech, automation, and mobile platforms. I design and ship real-world tools — from AI assistants and algorithmic trading systems to messaging apps and safety-focused platforms — with a strong emphasis on usability, performance, and impact.
 
----
-
-### 🛠️ My Tech Toolbox
-- **Languages:** Python, C#, JavaScript, TypeScript, Dart (Flutter), MQL4/MQL5  
-- **Tools:** MetaTrader 5, Git, Tkinter, Bootstrap, FTP, PyDirectInput
-- **Domains:** AI Assistants, Trading Bots, Web Apps, Farming Tech, Mobile UX
-- **Frameworks & Tools:** React, Node.js, Flask, Firebase, Godot, Tkinter, Pandas,
-- **Other:** GitHub, Oracle Cloud, MS Azure, OpenRouter AI 
+I’ve completed my Software Engineering studies and am now focused on **full-time development, product building, and entrepreneurship**.
 
 ---
 
-### 🚀 Projects I'm Building
-- 🧠 **Aurora AI** – General-purpose assistant with emotional intelligence  
-- 📈 **TradePulseTech EAs** – Powerful MT5 Expert Advisors  
-- 🌐 **Business Web Hosting** – Running [TradePulseTech](http://tradepulsetech.rf.gd) & a farm consultancy site  
-- 🗣️ **Talka App** – Lightweight South African messaging app  
-- 🧩 **SA Tycoon Game** – Township economics simulation (coming soon)  
-- 💼 **Upcoming Web Apps** – For local business & micro-banking
+## 🧠 Core Focus Areas
+- AI Assistants & Intelligent Automation  
+- Algorithmic Trading Systems (MT4/MT5)  
+- Cross-Platform Mobile & Desktop Applications  
+- Web Platforms for Businesses & Communities  
+- Africa-focused, resource-efficient software solutions  
 
-## 🚀 Projects
+---
 
-### 🌌 Aurora (AI Assistant) – *60–75%*  
-AI assistant with **personality engine, memory, emotional intelligence**, and advanced learning.  
-*Tech:* Python, OpenRouter, Flask  
+## 🛠️ Tech Stack
+
+**Languages**  
+Python · C# · JavaScript · TypeScript · Dart (Flutter) · MQL4/MQL5  
+
+**Frameworks & Tools**  
+Flutter · .NET · Tkinter · Flask · React · Node.js · Firebase · Pandas  
+
+**Platforms & Systems**  
+MetaTrader 5 · Git & GitHub · Oracle Cloud · Microsoft Azure · OpenRouter AI  
+
+**Domains**  
+AI Systems · FinTech · Automation · Mobile UX · Web Platforms · Game Systems  
+
+---
+
+## 🚀 Key Projects
+
+### 🌌 Aurora AI  
+Adaptive AI assistant featuring a **personality engine, memory system, emotional intelligence**, and modular task handling.  
+**Tech:** Python, Flask, OpenRouter  
+**Status:** Actively evolving
+
+---
 
 ### 🖥️ Pro Driver Assist V2  
-Driver assistance software with **game profile management, input visualization, and feedback tuning**.  
-*Tech:* Python (Tkinter, Pandas)  
+Windows-based driver assistance software with **game profiles, input emulation, feedback tuning, and performance controls**.  
+**Tech:** Python (Tkinter, Pandas)
 
-### 💹 Trade Pulse Technologies  
-Fintech brand selling **EAs for MT4 & MT5**.  
-🔗 [Website](https://tradepulsetech.rf.gd/)  
+---
 
-### 💹 Simons Agro Consultant 
-Animal Health and Consultancy.  
-🔗 [Website](https://tlousb.rf.gd/)  
+### 💬 Talka  
+Lightweight South African messaging app designed for **low-end devices and local usability**.  
+Features include voice input, media sharing, and offline-first storage.  
+**Tech:** Flutter, Hive  
+**Status:** In progress
 
-### 💬 Talka (Messaging App) – *In Progress*  
-South African lightweight messenger app with **voice-to-text, media sharing, and local storage**.  
-*Tech:* Flutter, Hive  
+---
 
-### 🛡️ SafeGuardSA (Safety Platform) – *In Progress*  
-Web platform for **crime reporting, live alerts, and maps**.  
-*Tech:* Bootstrap, Leaflet.js, Flask (planned)  
+### 🔒 AlibiSafe  
+Privacy-first mobile app providing **verifiable digital alibis** to help prevent wrongful accusations.  
+Built with consent-based data capture and integrity-focused storage.  
+**Tech:** Flutter, Firebase  
+**Status:** ~80% complete
 
-### 🔒 AlibiSafe – *80%*  
-Mobile app for **privacy-first digital alibis** to protect against wrongful accusations.  
-*Tech:* Flutter, Firebase, planned blockchain-like storage  
+---
 
-### 🤖 Sales Tracker Bot (Discord)  
-Sales & Task Manager bot with **analytics, AI insights, reminders, and motivational updates**.  
-*Tech:* Python, Pandas, Discord.py  
+### 📈 TradePulseTech  
+FinTech brand focused on developing and selling **automated trading systems (EAs)** for MT4 & MT5.  
+🔗 https://tradepulsetech.rf.gd  
+
+---
+
+### 🤖 Sales Tracker Bot  
+AI-powered Discord bot for **sales tracking, analytics, reminders, and productivity insights**.  
+**Tech:** Python, Pandas, Discord.py  
+
+---
+
+### 🎮 SA Tycoon Game *(Early Development)*  
+Township-inspired business simulation game exploring **local economics and growth mechanics**.  
+**Engine:** Godot  
+
+---
 
 ### 👕 Predesigns Clothing  
-Clothing line focused on creative and modern streetwear.  
+Creative streetwear brand blending design, culture, and entrepreneurship.
 
 ---
 
-## 🏆 Achievements
-- Built multiple **working software prototypes** independently  
-- Self-taught **EA developer** with profitable forex bots  
-- Created **AI-powered Discord bot** for sales tracking  
-- Running businesses across **fintech, AI, safety, and fashion**
+## 🏆 Highlights
+- Built and shipped multiple **working software products** independently  
+- Developed **profitable and production-ready trading bots**  
+- Designed AI systems with **state, memory, and adaptive behavior**  
+- Founder experience across **AI, fintech, safety tech, and fashion**
 
 ---
 
-### 🌱 I’m currently:
-- Final year Software Engineering student at Damelin
-- Preparing to move into full-time development + entrepreneurship
-- Working on expanding my clothing brand & farm startup
+## 🌱 Current Focus
+- Full-time software development & product building  
+- Scaling AI and fintech systems  
+- Launching production-ready platforms  
+- Growing tech and non-tech ventures sustainably
 
 ---
 
-📫 **Reach Me**  
-Website: [tradepulsetech.rf.gd](http://tradepulsetech.rf.gd)  
-GitHub: [github.com/pvrplxrd95](https://github.com/pvrplxrd95)  
-Email: *[josiast28@gmail.com]*
+## 📫 Contact
+🌐 Website: https://tradepulsetech.rf.gd  
+💻 GitHub: https://github.com/pvrplxrd95  
+📧 Email: josiast28@gmail.com
